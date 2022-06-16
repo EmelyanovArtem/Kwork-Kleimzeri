@@ -941,8 +941,9 @@
 }
 
 .about-btn {
-  display: block;
-  text-align: center;
+    display: block;
+    margin: 0 auto;
+    width: max-content;
 }
 
 .map {
